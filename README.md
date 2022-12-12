@@ -2,7 +2,7 @@
 Prazer, eu sou o Otávio Montalvão 🚀
 
  .:: Sobre Mim ::.                                                  
-Tenho 17 anos, estou no 3º ano do nível técnico em Tecnologia da Informação no Colégio Politec. Atualmente sou estagiário FullStack. Utilizo as linguagens *HTML5, CSS3, PHP8 ReactJs e JavaScript*, estou aprendendo NextJs(framework de React) e laravel(frame work de PHP). Para banco de dados utilizo *MySQL* e *Postgres*.
+Tenho 17 anos, conclui o ensino técnico em Tecnologia da Informação no Colégio Politec no ano de 2022. Atualmente sou estagiário FullStack. Utilizo as linguagens *PHP8, ReactJs, JavaScript, TypeScript, Node e ReactNative*. Para banco de dados utilizo *MySQL* e *Postgres*.
 
 
 
@@ -17,10 +17,12 @@ Tenho 17 anos, estou no 3º ano do nível técnico em Tecnologia da Informação
 ♧ CSS                                                  
 ♧ PHP                                                  
 ♧ ReactJs                                                  
-♧ JavaScript                                                  
-♧ TypeScript                                                 
+♧ ReactNative  
+♧ JavaScript  
+♧ TypeScript
+♧ Node
 ♧ MySQL                                                  
-♧ Postgres                                                  
+♧ Postgres
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otavio16design&layout=compact&theme=radical)
 
