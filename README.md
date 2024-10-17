@@ -20,6 +20,7 @@ Tenho 17 anos, conclui o ensino técnico em Tecnologia da Informação no Colég
 ♧ ReactNative  
 ♧ JavaScript  
 ♧ TypeScript
+♧ REST API
 ♧ Node
 ♧ MySQL                                                  
 ♧ Postgres
@@ -34,8 +35,8 @@ Tenho 17 anos, conclui o ensino técnico em Tecnologia da Informação no Colég
 
 
 ## Outros
-🧠 Estou aprendendo o framework NextJs.
+🧠 Estou aprendendo Low-Code.
 
-💭 Busco aprender Python.
+💭 Busco aprender No-Code.
 
 ### 🚀Obrigado pela atenção!🚀
