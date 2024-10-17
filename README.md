@@ -2,7 +2,7 @@
 Prazer, eu sou o Otávio Montalvão 🚀
 
  .:: Sobre Mim ::.                                                  
-Tenho 19 anos, conclui o ensino técnico em Tecnologia da Informação no Colégio Politec no ano de 2022. Atualmente sou Programador Júnior. Utilizo as linguagens *React, Node, e TypeScript*. Para banco de dados utilizo *Postgres* e *Dynamo*.
+Tenho 19 anos, conclui o ensino técnico em Tecnologia da Informação no Colégio Politec no ano de 2022. Atualmente sou Programador Júnior na Integracomm. Utilizo as linguagens *React, Node, e TypeScript*. Para banco de dados utilizo *Postgres* e *Dynamo*.
 
 
 
