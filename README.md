@@ -23,8 +23,7 @@ Tenho 19 anos, conclui o ensino técnico em Tecnologia da Informação no Colég
 ♧ REST API
 ♧ Node
 ♧ MySQL                                                  
-♧ Postgres
-♧ Dynamo
+♧ Postgres                                                                                                                                                                                                          ♧ Dynamo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otavio16design&layout=compact&theme=radical)
 
