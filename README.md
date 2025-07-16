@@ -23,6 +23,11 @@ Tenho 20 anos, conclui o ensino técnico em Tecnologia da Informação no Colég
 ♧ REST API
 ♧ Node
 ♧ Serverless
+
+
+♧ REST API
+♧ Node
+♧ Serverless
 ♧ Lambda
 ♧ AWS
 ♧ Inteligência Artificial
@@ -36,7 +41,6 @@ Tenho 20 anos, conclui o ensino técnico em Tecnologia da Informação no Colég
 ♧ Trabalho em Equipe                                                  
 ♧ Comunicativo                                                  
 ♧ Criativo          
-♧ teste
 
 
 ## Outros
