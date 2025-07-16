@@ -13,10 +13,21 @@ Tenho 20 anos, conclui o ensino técnico em Tecnologia da Informação no Colég
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavio16design&show_icons=true&theme=radical&include_all_commits=true)
 
 ## 🛠 Habilidades
-♧ HTML
-♧ CSS
-♧ PHP
-
+♧ HTML                                                  
+♧ CSS                                                  
+♧ PHP                                                  
+♧ ReactTS                                                  
+♧ ReactNative  
+♧ JavaScript  
+♧ TypeScript <br>
+♧ REST API <br>
+♧ Node <br>
+♧ Serverless <br>
+♧ Lambda <br>
+♧ AWS <br>
+♧ Inteligência Artificial <br>
+♧ MySQL                                                  
+♧ Postgres
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otavio16design&layout=compact&theme=radical)
 
