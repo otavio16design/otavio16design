@@ -35,7 +35,8 @@ Tenho 20 anos, conclui o ensino técnico em Tecnologia da Informação no Colég
 ♧ Vontade de Aprender                                                  
 ♧ Trabalho em Equipe                                                  
 ♧ Comunicativo                                                  
-♧ Criativo                                        
+♧ Criativo          
+teste
 
 
 ## Outros
