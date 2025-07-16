@@ -2,7 +2,7 @@
 Prazer, eu sou o Otávio Montalvão 🚀
 
  .:: Sobre Mim ::.                                                  
-Tenho 19 anos, conclui o ensino técnico em Tecnologia da Informação no Colégio Politec no ano de 2022. Atualmente sou Programador Júnior na Integracomm. Utilizo as linguagens *React, Node, e TypeScript*. Para banco de dados utilizo *Postgres* e *Dynamo*.
+Tenho 20 anos, conclui o ensino técnico em Tecnologia da Informação no Colégio Politec no ano de 2022. Atualmente sou Programador Júnior na Integracomm. Utilizo as linguagens *React e TypeScript* para frontend, *Node, serverless e lambda* para backend, *Postgres* para banco de dados, *AWS* para infraestrutura. Além disso tenho automações com Inteligencia Artificial. 
 
 
 
@@ -16,15 +16,18 @@ Tenho 19 anos, conclui o ensino técnico em Tecnologia da Informação no Colég
 ♧ HTML                                                  
 ♧ CSS                                                  
 ♧ PHP                                                  
-♧ ReactJs                                                  
+♧ ReactTS                                                  
 ♧ ReactNative  
 ♧ JavaScript  
 ♧ TypeScript
 ♧ REST API
 ♧ Node
+♧ Serverless
+♧ Lambda
+♧ AWS
+♧ Inteligência Artificial
 ♧ MySQL                                                  
 ♧ Postgres
-♧ Dynamo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otavio16design&layout=compact&theme=radical)
 
@@ -36,8 +39,8 @@ Tenho 19 anos, conclui o ensino técnico em Tecnologia da Informação no Colég
 
 
 ## Outros
-🧠 Estou aprendendo Low-Code.
+🧠 Estou aprendendo sobre projetos com Inteligência Artificial.
 
-💭 Busco aprender No-Code.
+💭 Busco Me especializar em Inteligência Artificial.
 
 ### 🚀Obrigado pela atenção!🚀
