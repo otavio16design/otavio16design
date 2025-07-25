@@ -19,7 +19,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de aprender algo novo — 
 
 ## 🔗 Me encontra por aqui
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otávio-montalvão-10355a207)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otávio-montalvão-10355a207)  
 [![instagram](https://img.shields.io/badge/instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omontalvao_/)
 
 ---
@@ -27,26 +27,26 @@ Sou apaixonado por tecnologia e estou sempre em busca de aprender algo novo — 
 ## 🛠️ Tecnologias que uso no dia a dia
 
 ### Frontend
-- HTML, CSS, JavaScript
-- ReactJS, React Native
-- TypeScript
+- HTML, CSS, JavaScript  
+- ReactJS, React Native  
+- TypeScript  
 
 ### Backend
-- Node.js
-- REST API
-- Serverless
-- AWS Lambda
+- Node.js  
+- REST API  
+- Serverless  
+- AWS Lambda  
 
 ### Banco de Dados
-- PostgreSQL
-- MySQL
+- PostgreSQL  
+- MySQL  
 
 ### Infraestrutura
-- AWS (S3, Lambda, API Gateway, etc)
+- AWS (S3, Lambda, API Gateway, etc)  
 
 ### Outros
-- PHP (nível básico)
-- Automação com IA 🤖
+- PHP (nível básico)  
+- Automação com IA 🤖  
 
 ---
 
@@ -61,9 +61,9 @@ Sou apaixonado por tecnologia e estou sempre em busca de aprender algo novo — 
 
 ## 🚧 Atualmente aprendendo
 
-- Projetos com Inteligência Artificial (focados em automações reais)
-- Arquitetura Serverless na AWS
-- Boas práticas de escalabilidade e segurança em cloud
+- Projetos com Inteligência Artificial (focados em automações reais)  
+- Arquitetura Serverless na AWS  
+- Boas práticas de escalabilidade e segurança em cloud  
 
 ---
 
@@ -79,11 +79,13 @@ Sou apaixonado por tecnologia e estou sempre em busca de aprender algo novo — 
 
 ---
 
-## 📈 Gráfico de Contribuições (real oficial)
+### 💥 Minhas contribuições no GitHub (todos os commits, inclusive como colaborador)
 
-[![Otávio's Contributions](https://activity-graph.herokuapp.com/graph?username=otavio16design&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Gráfico de contribuições do Otávio](https://ghchart.rshah.org/otavio16design)](https://github.com/otavio16design)
 
----
+*Clique no gráfico para ver todas as minhas contribuições direto no meu perfil GitHub.*
+
+
 
 ### 🎯 Obrigado pela atenção!
 
