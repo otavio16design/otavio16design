@@ -79,6 +79,12 @@ Sou apaixonado por tecnologia e estou sempre em busca de aprender algo novo — 
 
 ---
 
+## 📈 Gráfico de Contribuições (real oficial)
+
+[![Otávio's Contributions](https://activity-graph.herokuapp.com/graph?username=otavio16design&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ### 🎯 Obrigado pela atenção!
 
 Se curtir meu trampo, me segue no [Instagram](https://www.instagram.com/omontalvao_/) — tô sempre postando sobre programação, IA e vida de dev no mundo real! 🚀
