@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ Sobre Mim
 
-Tenho 20 anos e sou Desenvolvedor Júnior na **Integracomm**.  
+Tenho 21 anos e sou Desenvolvedor Júnior na **Integracomm**.  
 Concluí o técnico em TI pelo Colégio Politec (2022) e desde então mergulhei de cabeça no mundo da programação.
 
 Atualmente trabalho com:
@@ -20,7 +20,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de aprender algo novo — 
 ## 🔗 Me encontra por aqui
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otávio-montalvão-10355a207)  
-[![instagram](https://img.shields.io/badge/instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omontalvao_/)
+[![instagram](https://img.shields.io/badge/instagram-F56040?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omontalvao.dev/)
 
 ---
 
@@ -89,4 +89,4 @@ Sou apaixonado por tecnologia e estou sempre em busca de aprender algo novo — 
 
 ### 🎯 Obrigado pela atenção!
 
-Se curtir meu trampo, me segue no [Instagram](https://www.instagram.com/omontalvao_/) — tô sempre postando sobre programação, IA e vida de dev no mundo real! 🚀
+Se curtir meu trampo, me segue no [Instagram](https://www.instagram.com/omontalvao.dev/) — tô sempre postando sobre programação, IA e vida de dev no mundo real! 🚀
